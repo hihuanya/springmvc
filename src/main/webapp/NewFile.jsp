@@ -10,6 +10,11 @@
     嗨 你们好呀
 1111111111111111111
     你好啊eclipse代码
+<<<<<<< HEAD
     今天天气，小雪 温度5度
+=======
+    解决代码冲突的方法，提交代码
+    今天天气有点冷
+>>>>>>> branch 'StudyMavn_2018_121' of https://github.com/hihuanya/springmvc.git
 </body>
 </html>
